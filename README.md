@@ -8,7 +8,7 @@ Pregunta 1:
 Pregunta 2:
 * Indicar los patrones actualmente implementados: actory Method
 * 2.2 Ver Fuentes
-* 2.3 
+* 2.3 Ver Fuentes
 
 Pregunta 4: 
 * 4.1 Ver Codigo fuente
